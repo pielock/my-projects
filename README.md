@@ -1,2 +1,2 @@
 # my-projects
-bootcamp projects
+https://pielock.github.io/my-projects/
