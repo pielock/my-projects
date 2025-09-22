@@ -68,3 +68,8 @@ h3 {
     font-size: 24px;
     margin-top: 20px;
 }
+nav {
+    background-color: #d8c9c9;
+    overflow: hidden;
+    margin-bottom: 20px;
+}   
