@@ -32,9 +32,12 @@ body {
 }
 
 img {
+    border: 20px solid #630e23;
+    border-radius: 22px;
+    max-width: 100%;
     display: inline-block;
-    margin: 20px auto;
-    border-radius: 20px;
+    margin: 40px auto;
+    border-radius: auto;
 }
 
 button, input[type="submit"], input[type="reset"] {
