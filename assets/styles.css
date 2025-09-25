@@ -8,14 +8,22 @@
     vertical-align: baseline;
     color : inherit;
 }
-
+ .navbar {
+    position: sticky;
+    display: block;
+    margin: 50px;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+ }
 
 
 body h1 {
     color: purple;
     text-align: center;
     font-family: Arial, sans-serif;
-    font-size: 42px;
+    font-size: 50px;
 }
 body p {
     color: rgb(29, 116, 29);
@@ -32,12 +40,13 @@ body {
 }
 
 img {
-    border: 20px solid #630e23;
+    border: 20px dashed #630e23;
     border-radius: 22px;
     max-width: 100%;
-    display: inline-block;
-    margin: 40px auto;
-    border-radius: auto;
+    display: inline-block, width: 300;
+    height : 500;
+    margin : 40px auto;
+    box-shadow: 0 4px 8px rgba(4, 8, 10, 2.1);
 }
 
 button, input[type="submit"], input[type="reset"] {
