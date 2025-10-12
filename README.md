@@ -1,6 +1,6 @@
 # my-projects
-https://pielock.github.io/my-projects/
 
+https://pielock.github.io/my-portfolio-1/
 https://github.com/pielock/my-portfolio-1.git
 
 This is a basic portfolio of steven kane some of the information is incorrect this is the first web page i have built and am still
